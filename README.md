@@ -1,4 +1,5 @@
 # How-Remote-Work-Industry-Structures-Impact-Regional-Income-Disparities
+Made by Houpu Li
 
 With the rapid development of information and communication technologies(ICT), particularly during the COVID-19 pandemic and the subsequent stay-at-home orders, work from home(WFH) has emerged as a key strategy in responding to the crisis, experiencing unprecedented growth and continuing to demonstrate its significance in the post-pandemic era. Studies suggest that remote workers may enjoy a higher income premium compared to the overall labor market. Therefore, this "new normal" work model, in the absence of effective regulation, could exacerbate existing regional income inequalities in certain areas. This study utilizes various models to analyze how the correlation between the proportion of remote work in different industries and regional income disparities has changed before and after the pandemic.   
 
